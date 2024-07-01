@@ -12,6 +12,8 @@ npm install
 
 ## Getting Started
 
+Rename files like `.env.example` to `.env`
+
 To start the development server:
 
 ```bash
